@@ -1,2 +1,2 @@
-# Maya Research Lab
+# t4chia
 theme: minima
